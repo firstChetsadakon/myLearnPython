@@ -1,1 +1,1 @@
-THis repo for leanning programing in python for my master degree in data scieance ans analytics
+This repo for leanning programing python master degree in data scieance ans analytics
